@@ -22,5 +22,9 @@ git status
 git diff
 #git diff <filename>
 
-# Prepare git to save changes in tracked files for next commit
+# Stage changes in tracked files for next commit
 git add -u
+git commit
+
+# Stage and commit in one command
+git commit -a -m "Stage and commit" #with message
