@@ -35,9 +35,9 @@ git commit -a -m "Stage and commit" #with message
 ### Check history of git project
 git log
 
-# Details of last commit and file changes
+### Details of last commit and file changes
 git show
-# git show <hash> # Details of particular commit
+### git show <hash> # Details of particular commit
 
 pwd
 /Users/pgupta/work/my_git_project
